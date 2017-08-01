@@ -39,7 +39,7 @@ Create an imageboard integrated native application for iOS rather than a web app
 
 ### Networking/Server-side Cable Management
 
-For networking techs, managing patches/optical connections. Lists currently connected machines via user input, and could catalog cables being used along with their respective IO connections. Both of us think this is a very useful idea, based on past experience. I (James) having 2 switches amongst a small network of machines, have had problems maintaining a consistent and easy to understand organisation system, and keeping track of which ports are hooked into which machine.
+For networking techs, managing patches/optical connections. Lists currently connected machines via user input, and could catalog cables being used along with their respective IO connections. Both of us think this is a very useful idea, based on past experience. I (James), having 2 switches amongst a small network of machines, have had problems maintaining a consistent and easy to understand organisation system, and keeping track of which ports are hooked into which machine.
 
 ### JSON-Based data visualisation/indexing
 
