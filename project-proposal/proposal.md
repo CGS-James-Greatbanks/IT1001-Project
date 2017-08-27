@@ -30,15 +30,15 @@ PatchMan seeks to remedy this issue through a comprehensive but basic method of 
 
 Sidewinder is an application for iOS devices running iOS 10 and up. The application appears to be very similar to our initial concept, being based on a set of table views and it is based around assisting with cable management.
 
-![sidewinder3](/Users/James/Desktop/IT1001-Project/Screenshots/Sidewinder/sw3.png)
+![sidewinder3](../Screenshots/Sidewinder/sw3.png)
 
 From the screenshots available, the application appears to have a lot of parameters available for each cable, along with a way to sync setups with other network administrators/cabling staff.
 
-![sidewinder2](/Users/James/Desktop/IT1001-Project/Screenshots/Sidewinder/sw2.png)
+![sidewinder2](../Screenshots/Sidewinder/sw2.png)
 
 However, when we attempted to open this application on our phones, Sidewinder requested credentials. There is no visible way to make an account or request an account on the login screen, and we were barred from the application.
 
-![sidewinder4](/Users/James/Desktop/IT1001-Project/Screenshots/Sidewinder/sw4.png)
+![sidewinder4](../Screenshots/Sidewinder/sw4.png)
 
 ---
 
@@ -46,15 +46,15 @@ However, when we attempted to open this application on our phones, Sidewinder re
 
 Connect Master™ appears to be a web application for managing very large and significant cabling networks/setups that will usually contain underground cabling and cover multiple datacenters.
 
-![connectmaster1](/Users/James/Desktop/IT1001-Project/Screenshots/Connect Master™/cm1.jpg)
+![connectmaster1](../Screenshots/Connect Master™/cm1.jpg)
 
 This application appears to be on a much more broad scale than we intend to put PatchMan on. Even though we intend to use Core Data and share the setups with others via CloudKit, setup managers/cable staff of this magnitude of setup are not our target audience.
 
-![connectmaster3](/Users/James/Desktop/IT1001-Project/Screenshots/Connect Master™/cm3.jpg)
+![connectmaster3](../Screenshots/Connect Master™/cm3.jpg)
 
 It is difficult to gauge how we could incorporate features of this application into ours, because there is no distinct way to get a trial or demo of the application. All applications for a demo or trial are via email, and there is no trial/downloadable version that is readily available.
 
-![connectmaster4](/Users/James/Desktop/IT1001-Project/Screenshots/Connect Master™/cm4.png)
+![connectmaster4](../Screenshots/Connect Master™/cm4.png)
 
 ---
 
@@ -62,15 +62,15 @@ It is difficult to gauge how we could incorporate features of this application i
 
 netTerrain appears to be very similar to Connect Master, being a primarily graphical and large-scale software for the purpose of wide-scale management, on top of being a web application.
 
-![netterrain1](/Users/James/Desktop/IT1001-Project/Screenshots/netTerrain/nt1.png)
+![netterrain1](../Screenshots/netTerrain/nt1.png)
 
 This is on a considerably larger than PatchMan is intended to be, and is aimed at corporations/companies, rather than smaller scale, personal setups and more minor setups.
 
-![netterrain2](/Users/James/Desktop/IT1001-Project/Screenshots/netTerrain/nt2.png)
+![netterrain2](../Screenshots/netTerrain/nt2.png)
 
 This software runs into the problem of us not being able to actually access the software, because to request a trial, it appears that you need to provide evidence that you are a part of a company that will actually use the product and the software is not easily or freely accessible.
 
-![netterrain3](/Users/James/Desktop/IT1001-Project/Screenshots/netTerrain/nt3.png)
+![netterrain3](../Screenshots/netTerrain/nt3.png)
 
 
 ---
@@ -79,11 +79,11 @@ This software runs into the problem of us not being able to actually access the 
 
 This application appears to be a natively written application for Windows, but it is difficult to determine what platforms LiveNX is available on, because in another video on the site, it states that LiveNX comes with a scaleable web application.
 
-![livenx1](/Users/James/Desktop/IT1001-Project/Screenshots/LiveNX/lnx3.png)
+![livenx1](../Screenshots/LiveNX/lnx3.png)
 
 This application also runs into the issue of not having an openly accessible demo version of the application, meaning we're just relying on the screenshots and descriptions.
 
-![livenx2](/Users/James/Desktop/IT1001-Project/Screenshots/LiveNX/lnx4.png)
+![livenx2](../Screenshots/LiveNX/lnx4.png)
 
 ---
 
