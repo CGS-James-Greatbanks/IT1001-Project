@@ -87,6 +87,16 @@ This application also runs into the issue of not having an openly accessible dem
 
 ---
 
+### Screen Design
+
+---
+
+![storyboard](http://i.imgur.com/wDXEpPp.png)
+
+PatchMan should be a very simple TableView application that is easy and intuitive to use, displaying only the information necessary to you in your setup(s). While this is a very simple mockup, the actual functionality of the application is probably not going to differ very much. The aesthetics of the application is something we have started work on, but we have not done significant amounts of design as of yet.
+
+---
+
 ### Common Themes and Potential Improvements
 
 ---
